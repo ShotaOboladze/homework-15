@@ -1,0 +1,49 @@
+body {
+    background-color: #e7dbdb;
+   
+}
+
+img {
+    width: 380px;
+    height: 553px; 
+}
+.div-1 {
+
+    position:fixed;
+  
+
+}
+
+.div-2 {
+    width: 380px;
+    height: 323px;
+    background-color: #B2A19D;
+    position:absolute ;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: 'Esther';
+}
+
+h3 {
+    font-size: 16px;
+    font-family: 'Urbanist';
+}
+
+p {
+    font-size: 14px;
+    font-family: 'Urbanist';
+    text-align: left;
+    margin: 40px;
+   
+   
+}
+
+button {
+    width: 150px;
+    height: 35px;
+    background-color: #ECE5C7;
+    font-size: 16px;
+    color: #354259;
+}
